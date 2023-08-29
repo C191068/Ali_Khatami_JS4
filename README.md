@@ -138,6 +138,10 @@ console.log(typeof myNumber.toString());
 If we want to check the data type we can see it returns string <br>
 
 
+We can get benefits of seveeral methos at once by chaining them together <br>
+
+
+
 
 
 
