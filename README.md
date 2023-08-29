@@ -92,6 +92,8 @@ The above tries to find if any number is integer or not <br>
 
 
 
+The parseFloat method parses the value pass to it <br>
+
 
 
 
