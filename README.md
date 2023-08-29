@@ -143,6 +143,8 @@ We can get benefits of seveeral methos at once by chaining them together <br>
 
 ![j36](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/5833f11f-a301-45bd-ac8e-1302a7bf4f50)
 
+Example of chaining <br>
+
 
 
 
