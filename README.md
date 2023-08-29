@@ -2,3 +2,7 @@
 
 ### Numbers
 
+![j19](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/dc627031-86e1-425b-820c-3954dc930604)
+
+here we will do the above <br>
+
