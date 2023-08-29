@@ -160,6 +160,32 @@ The global isNaN functiion determines if a value is not a number <br>
 
 It does not check if the value passed to it is anumber data type <br>
 
+![j38](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/7e7e9338-0fac-47a3-85a8-0f3cccc936fc)
+Code:
+
+```
+
+console.log(isNaN("Dave"));
+
+```
+
+above is the global isNaN it returns true for the string dave <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
