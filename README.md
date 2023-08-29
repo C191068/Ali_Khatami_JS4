@@ -6,3 +6,7 @@
 
 here we will do the above <br>
 
+Javascript considers both integers and floats to be number data types <br>
+
+
+
