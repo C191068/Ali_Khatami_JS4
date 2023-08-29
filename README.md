@@ -156,6 +156,8 @@ console.log(Number.isNaN("Dave"));
 the above is used to check whether a number is NaN or not  <br>
 
 
+The global isNaN functiion determines if a value is not a number <br>
+
 
 
 
