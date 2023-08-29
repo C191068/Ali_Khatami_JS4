@@ -96,6 +96,10 @@ The above tries to find if any number is integer or not <br>
 The parseFloat method parses the value pass to it and reeturns a floating point number <br>
 
 
+the tofixedmethod() limits a floating point number <br>
+
+to the number of decimels you provide as a parameter <br>
+
 
 
 
