@@ -68,6 +68,9 @@ If we want to convert a string that cannot be cconverted to number <br>
 
 it will return NaN which means not a number <br>
 
+![j29](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/3a2853bd-ab4c-47d8-a39b-97158332d4d0)
+
+Boolean is different for true it will return 1 <br>
 
 
 
