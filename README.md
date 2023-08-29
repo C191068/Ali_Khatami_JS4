@@ -103,6 +103,16 @@ to the number of decimels you provide as a parameter <br>
 
 It will return string data not anumber data for that the color is white <br>
 
+![j33](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/b552a22c-36f3-4e07-8d7d-8e2af21cfb83)
+Code:
+
+```
+console.log(Number.parseInt(myFloat));
+
+```
+
+the above method removes non numeric character and convert any data type to integer <br>
+
 
 
 
