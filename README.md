@@ -58,6 +58,12 @@ we can change the string data type to number data type by the above <br>
 thus the above output is shown in purple color <br>
 
 
+![j27](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/5eedb750-e24b-496d-9291-6df11d711b9b)
+
+now if we compare it will return true <br>
+
+
+
 
 
 
