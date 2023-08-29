@@ -30,6 +30,21 @@ If we pass only string it will show white color <br>
 if we don't give any number except zero after decimel palce at myFloat <br>
 and then compare it with myNumber it wil return true <br>
 
+
+![j26](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/faaad856-bf76-44ea-9412-bfcf26fba638)
+code:
+
+```
+
+console.log(myString === myNumber);
+
+```
+
+Though mynumber and mystring looks equal but they are  different data type so the above will return false <br>
+
+
+
+
 ![j25](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/b24bba60-c677-4389-ad1f-b35265141971)
 Code:
 
