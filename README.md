@@ -74,6 +74,9 @@ Boolean is different for true it will return 1 <br>
 
 
 
+now we will talk about number methods <br>
+
+
 
 
 
