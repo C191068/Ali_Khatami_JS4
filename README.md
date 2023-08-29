@@ -122,8 +122,20 @@ the toString() method returns a string represesnting the number <br>
 
 It converts any data type to string <br>
 
+```
+console.log(myNumber.toString());
+
+```
 
 
+
+![j35](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/3fd344e1-bbc1-403e-a028-71af86991c43)
+```
+console.log(typeof myNumber.toString());
+
+```
+
+If we want to check the data type we can see it returns string <br>
 
 
 
