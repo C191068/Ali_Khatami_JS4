@@ -95,10 +95,14 @@ The above tries to find if any number is integer or not <br>
 
 The parseFloat method parses the value pass to it and reeturns a floating point number <br>
 
+![j32](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/4d22a016-9fa1-4495-a549-a3bf35368db6)
 
 the tofixedmethod() limits a floating point number <br>
 
 to the number of decimels you provide as a parameter <br>
+
+It will return string data not anumber data for that the color is white <br>
+
 
 
 
