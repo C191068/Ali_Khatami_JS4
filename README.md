@@ -62,6 +62,12 @@ thus the above output is shown in purple color <br>
 
 now if we compare it will return true <br>
 
+![j28](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/8f1f0d38-9244-4529-9f94-98b1fce0ac37)
+
+If we want to convert a string that cannot be cconverted to number <br>
+
+it will return NaN which means not a number <br>
+
 
 
 
