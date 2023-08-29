@@ -8,5 +8,8 @@ here we will do the above <br>
 
 Javascript considers both integers and floats to be number data types <br>
 
+![j20](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/dbc6b082-9fac-4264-82cc-3f90aea044fa)
+
+if after decimel there is no number except zero javascript will not show the decimel part <br>
 
 
