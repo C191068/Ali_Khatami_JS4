@@ -17,3 +17,7 @@ if after decimel there is no number except zero javascript will not show the dec
 If after decimel there is number other than ```0``` it will show it<br>
 
 
+![j22](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/043dd6f4-39e1-4bb6-ae26-6573cefd2b5f)
+Notice if we pass any number it will be shown in purple color <br>
+
+
