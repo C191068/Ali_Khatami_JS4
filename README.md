@@ -90,6 +90,7 @@ console.log(Number.isInteger(myFloat));
 The above tries to find if any number is integer or not <br>
 
 
+![j31](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/0cff7475-10e7-4e47-8c2c-bc8f681234ef)
 
 
 The parseFloat method parses the value pass to it and reeturns a floating point number <br>
