@@ -30,6 +30,17 @@ If we pass only string it will show white color <br>
 if we don't give any number except zero after decimel palce at myFloat <br>
 and then compare it with myNumber it wil return true <br>
 
+![j25](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/b24bba60-c677-4389-ad1f-b35265141971)
+Code:
+
+```
+console.log(Number(myString));
+
+```
+
+we can change the string data type to number data type by the above <br>
+
+
 
 
 
