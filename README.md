@@ -40,6 +40,11 @@ console.log(Number(myString));
 
 we can change the string data type to number data type by the above <br>
 
+thus the above output is shown in purple color <br>
+
+
+
+
 
 
 
