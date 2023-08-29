@@ -115,9 +115,14 @@ the above method removes non numeric character and convert any data type to inte
 
 
 
+![j34](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/40e694c6-426e-4cb0-846c-46cf6502bdf2)
 
 
 the toString() method returns a string represesnting the number <br>
+
+It converts any data type to string <br>
+
+
 
 
 
