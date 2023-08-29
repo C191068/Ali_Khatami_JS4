@@ -20,4 +20,25 @@ If after decimel there is number other than ```0``` it will show it<br>
 ![j22](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/043dd6f4-39e1-4bb6-ae26-6573cefd2b5f)
 Notice if we pass any number it will be shown in purple color <br>
 
+![j23](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/327a142c-1ce7-4ceb-9fb9-ae62ed796bab)
+
+If we pass only string it will show white color <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
