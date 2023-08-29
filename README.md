@@ -158,6 +158,8 @@ the above is used to check whether a number is NaN or not  <br>
 
 The global isNaN functiion determines if a value is not a number <br>
 
+It does not check if the value passed to it is anumber data type <br>
+
 
 
 
