@@ -78,6 +78,18 @@ now we will talk about number methods <br>
 
 
 
+![j30](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/e5857685-29f6-4512-9b20-e0c2d6ac279c)
+
+Code:
+
+```
+console.log(Number.isInteger(myFloat));
+
+```
+
+The above tries to find if any number is integer or not <br>
+
+
 
 
 
