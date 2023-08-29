@@ -145,6 +145,17 @@ We can get benefits of seveeral methos at once by chaining them together <br>
 
 Example of chaining <br>
 
+![j37](https://github.com/C191068/Ali_Khatami_JS4/assets/89090776/2e4fbbe3-3476-4287-9afc-01fb806418e7)
+Code:
+
+```
+console.log(Number.isNaN("Dave"));
+
+```
+
+the above is used to check whether a number is NaN or not  <br>
+
+
 
 
 
