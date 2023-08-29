@@ -117,6 +117,10 @@ the above method removes non numeric character and convert any data type to inte
 
 
 
+the toString() method returns a string represesnting the number <br>
+
+
+
 
 
 
